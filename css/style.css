@@ -1,0 +1,21 @@
+h1 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.container {
+  color: white;
+  font-family: sans-serif;
+}
+
+.column {
+  background-color: #1c5193;
+  padding: 1em;
+}
+
+.column:nth-child(odd) {
+  background-color: #72c03d;
+}
